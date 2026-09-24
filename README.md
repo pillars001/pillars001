@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Alabi Anuoluwapo Olamide
 
-<!--
-**pillars001/pillars001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend engineer based in Nigeria, building systems for
+financial services, commerce, property management, and AI analytics.
 
-Here are some ideas to get you started:
+My work spans APIs, payment integrations, webhooks, database design,
+and asynchronous processing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I've built
+
+- **Homevy:** I built the backend system for property
+  management, reservations, payments, and owner/agent financial reporting.
+- **Promptmonitor:** Independently built the backend for AI visibility
+  analytics, multi-model response processing, team management, and billing.
+- **Instant Ease:** Independently built the backend connecting customers,
+  vendors, and riders through storefronts, orders, payments, and delivery.
+- **Nosh:** Contributed within a backend team to crypto integrations,
+  virtual bank accounts, payouts, bill payments, and referral systems.
+
+## Technologies
+
+JavaScript · Node.js · Express  
+PostgreSQL · Supabase · MongoDB · Mongoose  
+Redis · BullMQ · Temporal  
+Git · CI/CD · PM2
+
+## Engineering interests
+
+- Reliable payment and webhook processing
+- Background jobs, retries, and failure recovery
+- Transaction consistency and duplicate-processing safeguards
+- Clear APIs and maintainable backend architecture
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/alabi-anuoluwapo-olamide-3ab564289)
